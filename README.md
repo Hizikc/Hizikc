@@ -1,4 +1,4 @@
-# Matvey Kuznecov  15 years old
+# Matvey Kuznecov  16 years old
 # Hizikc
 
 ### [my dotfiles](https://github.com/Hizikc/dotfiles)
